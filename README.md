@@ -1,3 +1,3 @@
 # Odin-Recipes
 
-This me first project ever is to build a recipe website
+This my first project ever is to build a recipe website
